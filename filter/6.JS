@@ -1,0 +1,1 @@
+console.log(arr.filter(elem=>typeof elem!='object'));

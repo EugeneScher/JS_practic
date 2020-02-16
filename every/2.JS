@@ -1,0 +1,1 @@
+console.log(arr.every((elem,index)=>elem*index<30))
